@@ -1,5 +1,8 @@
 # Solution of Python weekend entry task
 
+This is the solution to the entry task for the Kiwi Python Xmas Weekend Workshop.
+The entry task is to be found here https://github.com/kiwicom/python-weekend-xmas-task
+
 ## Author: Vera Kumova
 
 
